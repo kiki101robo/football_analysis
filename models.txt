@@ -1,0 +1,1 @@
+I have used my own model which was trained on a different dataset. The models folder was too big for me to upload it directrly to the repo so I uploaded the models folder to my google drive. After downloading this repo, visit the google drive link and download the models folder and place it in the root directory i.e. inside the football_analysis folder. 
