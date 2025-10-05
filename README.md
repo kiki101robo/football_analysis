@@ -1,4 +1,4 @@
-# football_analysis
+# football_analysis(on going)
 
 This repository contains code and resources for detecting and tracking football players using YOLOv5 and YOLOv8 models. The system supports video inference, visualization, and player classification tasks.
 
